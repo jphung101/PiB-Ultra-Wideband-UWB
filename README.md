@@ -7,11 +7,12 @@
 ---
 
 ## Firmware:
+- Ryan Ni
 
 ## Software (App):
 
 ## Hardware:
-
+- Ryan Ni
 ## References/Resources:
 
 1. [Makerfabs Repo](https://github.com/Makerfabs/Makerfabs-ESP32-UWB-DW3000?tab=readme-ov-file) allows for ESP32 to interface with DWM3000
