@@ -23,8 +23,8 @@
 - Ryan Ni
 - Pranav Kulkarni
 - Alan Ye
-  -Sebastian Morales
-  -Alvin Li
+- Sebastian Morales
+- Alvin Li
 
 ## References/Resources:
 
